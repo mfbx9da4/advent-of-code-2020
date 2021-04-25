@@ -1,4 +1,4 @@
-import { example } from './4/example'
+import { example } from './example'
 
 const parsePassport = (passport: string) => {
   const parts = passport.split('\n')
